@@ -6,6 +6,6 @@ Visualizacion donde se pone en practica conceptos avanzados de D3.js los cuales 
 * IIC2026 class of 2024-1 repository: [link](https://puc-infovis.github.io/version-2024-1/)
 
 ## LEGAL NOTICE:
-Toda utilización del código fuente presente requiere la autorización del propietario, a su vez este no se hace responsable por ninguna maliciosa utilización en toda actividad que involucre la violacion de derechos de autor e integridad académica o cualquier otra actividad que atente con la buena voluntad y espíritu de código abierto.
+La utilización del código fuente presente está sujeta a la autorización expresa del propietario. Se advierte que el propietario no asume responsabilidad alguna por el uso malicioso en cualquier actividad que implique violación de derechos de autor, integridad académica u otra acción contraria a los principios del código abierto.
 
-Any use of the present source code requires the owner's authorization. At the same time, the owner is not responsible for any malicious use in any activity involving the violation of copyright and academic integrity or any other activity that undermines good will and the spirit of open source.
+The use of the present source code requires explicit authorization from the owner. It is hereby stated that the owner assumes no responsibility for any malicious use in any activity that involves copyright infringement, academic integrity, or any other activity contrary to the principles of open source. Unauthorized use will be subject to legal action in accordance with applicable law.
